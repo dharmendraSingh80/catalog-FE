@@ -5,6 +5,10 @@ This web page is built using React, Material UI
 ### For large Screen
 ![Screenshot (61)](https://user-images.githubusercontent.com/114590452/234615557-89f8fc1b-a63d-4635-9e6b-225f4d0d3abf.png)
 
+### For Medium size screen
+![Screenshot (65)](https://user-images.githubusercontent.com/114590452/234652685-01d237c0-1521-4a5e-ba54-03ec11f053c4.png)
+
+
 ### For Mobile Screen
 ![Screenshot (63)](https://user-images.githubusercontent.com/114590452/234616236-c1b99770-134a-46d2-a51b-64b8228acf78.png)
 
