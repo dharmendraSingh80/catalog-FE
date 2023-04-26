@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/catalog-FE/static/js/main.fee976ba.js",
+    "index.html": "/catalog-FE/index.html",
+    "main.fee976ba.js.map": "/catalog-FE/static/js/main.fee976ba.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fee976ba.js"
+  ]
+}
